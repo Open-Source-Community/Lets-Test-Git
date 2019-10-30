@@ -1,8 +1,8 @@
-name,year,department,sectionNumber,
-Ramy Gamal,4,Software,1,
-Ahmed Yasser,3,General,1,
-Ahmed Ragab Abdul Ghani,2,General,1,
-Mohamed Ahmed,4,Bio,1,
-Kirlos Melad,2,General,12,
-Youssef Nagy Kamal,2,General,18,
-Abdullah Adel Kzem,,2,General,9
+name,year,department,sectionNumber
+Ramy Gamal,4,Software,1
+Ahmed Yasser,3,General,1
+Ahmed Ragab Abdul Ghani,2,General,1
+Mohamed Ahmed,4,Bio,1
+Kirlos Melad,2,General,12
+Youssef Nagy Kamal,2,General,18
+Abdullah Adel Kzem,2,General,9
